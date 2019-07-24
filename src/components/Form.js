@@ -20,6 +20,7 @@ const StyledForm = styled.form`
 
 const StyledInput = styled.input`
   width: 100%;
+  min-width: 0px;
   padding: 4px 12px;
   border: none;
   font: 900 2em Arial;
